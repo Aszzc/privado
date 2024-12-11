@@ -26,3 +26,14 @@ jobs:
       - name: Run the script
         run: |
           python app.py  # Replace with your script name
+
+      - name: Set up Git for pushing changes
+        run: |
+          git config --global user.name "aszzc"
+          git config --global user.email "aszzc@users.noreply.github.com"
+
+      - name: Commit and push generated files
+        run: |
+          git add clash.yaml v2ray.txt  # Add your generated files
+          git commit -m "Update generated config files" || echo "No changes to commit"
+          git push origin HEAD  # Push the changes to the same branch
