@@ -2,10 +2,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.54.47
+  ip: 100.64.55.20
   name: ams-101.vpn.privado.io
   port: 51820
-  private-key: CFeJqO4tl8eJWXPoGM0JZdG93CnuylHAZGk2+e5fSmI=
+  private-key: 4N5J4SicvrHXYXaomxjtqDFvRCZGzcBjsW3KS0wVgnc=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-101.vpn.privado.io
@@ -14,10 +14,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.52.219
+  ip: 100.64.52.253
   name: ams-109.vpn.privado.io
   port: 51820
-  private-key: aMOHFt8rypCzgyEmWL3zublUjqwOoID6mTnmGbF8JXY=
+  private-key: iLlg8Uc1C6rNabixpYHpC0RFBaI5rW116Ssm788pBUA=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-109.vpn.privado.io
@@ -26,10 +26,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.95.222
+  ip: 100.64.96.79
   name: ams-110.vpn.privado.io
   port: 51820
-  private-key: 6NX+NfzkBtszahcCKAJjXAQfFUFlN6vDq6CobemheW0=
+  private-key: GEueylJ5CrAQmqCbtepbOUhE04jcmT4kH4rRJipcLWc=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-110.vpn.privado.io
@@ -38,10 +38,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.161.170
+  ip: 100.64.162.40
   name: ams-111.vpn.privado.io
   port: 51820
-  private-key: cDP86Zzp+pUaf45Bu8SwZ0fQOJb+xJxRziCJ2vZkln8=
+  private-key: eOhxQ0h5VJi2EyyciZ4onCFvTStHSFFA6/GUZqLKSn0=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-111.vpn.privado.io
@@ -50,10 +50,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.79.61
+  ip: 100.64.79.165
   name: ams-112.vpn.privado.io
   port: 51820
-  private-key: oFLrMyOzFblj22ORR30odkeA9q/OYPCuFvV3wLAk1Gg=
+  private-key: qPDyUW7ZyO5VqTcxXI7L0UaupzJ4GRfPbTJ4CSpOl2g=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-112.vpn.privado.io
@@ -62,10 +62,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.94.82
+  ip: 100.64.94.228
   name: ams-113.vpn.privado.io
   port: 51820
-  private-key: 0DQM2WZI+Cfxy1uov9A9QFNhlrhZrohyLlPA9JzurGA=
+  private-key: YHk+tgLaE0dgA+gDMjrUGRp+z+rol5G1HN6ajGlbhlU=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-113.vpn.privado.io
@@ -74,10 +74,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.147.189
+  ip: 100.64.148.253
   name: ams-114.vpn.privado.io
   port: 51820
-  private-key: WKoqOVw/HzMIHwgH2XX9AfZfBST+LKjFwZN3fSdsWUE=
+  private-key: 6Ou2WFy4fRzPPFIybzAuedJXPPIEqATPVlndvGwLM2I=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-114.vpn.privado.io
@@ -86,10 +86,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.175.235
+  ip: 100.64.177.81
   name: ams-115.vpn.privado.io
   port: 51820
-  private-key: yP4ExSsR9W7efMx3j1xgPR7PkcdLYEALYEYs+SGIR0M=
+  private-key: 2K/KmY21/GjPJEXJy/I9xh40n+aTnnr4D9RCsRz94nw=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-115.vpn.privado.io
@@ -98,10 +98,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.91.254
+  ip: 100.64.92.63
   name: ams-116.vpn.privado.io
   port: 51820
-  private-key: MFBYOBewkS5ArRPWx3LfcLOKs1iV/WBtUYXMX4MCr0w=
+  private-key: 6PuDeyChFZn0ZMgqsJV5KRBmsvHzu/U/ZvHX8R90CXw=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-116.vpn.privado.io
@@ -110,10 +110,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.24.230
+  ip: 100.64.24.255
   name: ams-117.vpn.privado.io
   port: 51820
-  private-key: MCQXzuAWjd+hp7PZxHhjbQ/IMNdg012nNk+VhhV5XFc=
+  private-key: ELPjnEZfKv6PRHNhNDv2RAYbxPVim39qo1CoeLslHVo=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: ams-117.vpn.privado.io
@@ -122,10 +122,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.47.35
+  ip: 100.64.47.72
   name: bom-104.vpn.privado.io
   port: 51820
-  private-key: kG5vzrK+FNDH8Dc0iKEDTOpNnZSvAx82CbvUSShCYWo=
+  private-key: KDDW+oL2GiE/wr1n1AL4WM3/Wqa+0H4rV/oZBhHkTms=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-104.vpn.privado.io
@@ -134,10 +134,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.57.168
+  ip: 100.64.57.219
   name: bom-106.vpn.privado.io
   port: 51820
-  private-key: oGm3ZeHn6I8jlR0MiiOZzA7FuJ4H4W59VGlAYcBqeFU=
+  private-key: sBvCadekHBCJKTrDhXpJogztfWL+ZZb8prYAHdmpKHQ=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-106.vpn.privado.io
@@ -146,10 +146,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.138.174
+  ip: 100.64.139.137
   name: bom-107.vpn.privado.io
   port: 51820
-  private-key: yChUQwNXKl/87+zld/Ik38YTJ19GAyQ8n7HHF1wtcmo=
+  private-key: WER1RrgkzQpUzxS1khUolYHohXg/iYFJczcZvdiggV8=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-107.vpn.privado.io
@@ -158,10 +158,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.95.182
+  ip: 100.64.96.145
   name: bom-105.vpn.privado.io
   port: 51820
-  private-key: 4OOLGOlu/NgU6DF03bM91BwLGyd5DFsXj1+1u1vIkGo=
+  private-key: aEcfcapDHDbvR8NSC+8uAGBtdTHU0SPltopPasAUgmo=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-105.vpn.privado.io
@@ -170,10 +170,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.118.213
+  ip: 100.64.119.203
   name: bom-108.vpn.privado.io
   port: 51820
-  private-key: aOyRoBRR5zfd2J4MPZaSCNPPFsAsnca5dr3EJiimA34=
+  private-key: OP6XX6AsrWcHChq0dHbzG+30A0ox20kyyYTaAmO8V1Y=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-108.vpn.privado.io
@@ -182,10 +182,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.108.249
+  ip: 100.64.109.153
   name: bom-109.vpn.privado.io
   port: 51820
-  private-key: uM4TEG3m0l+zYHiJ7NX+AEWUfFlRYIg7aFPF+2/VBXk=
+  private-key: KK0uhmcPbHOCuzcM6f+P9Ygznd4BxCHuRMiSUu03O2M=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-109.vpn.privado.io
@@ -194,10 +194,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.105.240
+  ip: 100.64.106.135
   name: bom-110.vpn.privado.io
   port: 51820
-  private-key: WJduQNTCz6EgFF2O3Go4ngTR6qx+wL6NXWwj+Plgq3k=
+  private-key: MNeyaLu0wS2RFjgxHBBT6QXn3PAZwfAneIxW6kM9VEc=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-110.vpn.privado.io
@@ -206,10 +206,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.94.35
+  ip: 100.64.94.78
   name: bom-111.vpn.privado.io
   port: 51820
-  private-key: oIhzuO+xDbJihaBuiTPpFScbSeiuAWvHK+n/bEQI8mM=
+  private-key: 4H6oce1yRsjn98EwbqfFavhC4sZVtotzYUpt/t1Mk2M=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: bom-111.vpn.privado.io
@@ -218,10 +218,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.36.60
+  ip: 100.64.36.72
   name: cdg-101.vpn.privado.io
   port: 51820
-  private-key: 8Ml7ZKQ/AJVueJAILZQZU9ZD8orQIdliS6w2Fr/ovUY=
+  private-key: yBo8tntz9kKgrAgM8jDXuKNH2h6y4m6NeaQs2EBGylw=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: cdg-101.vpn.privado.io
@@ -230,10 +230,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.33.8
+  ip: 100.64.33.24
   name: cdg-102.vpn.privado.io
   port: 51820
-  private-key: 4GogJC6kxVMnZlB8Tl2o0rae5LUF0dTo6ptIuVbPzWM=
+  private-key: gO1K++kGXhStEns1hb/nreP+yuFvzbtAApH2VgMI8Ug=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: cdg-102.vpn.privado.io
@@ -242,10 +242,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.196.122
+  ip: 100.64.197.84
   name: cdg-105.vpn.privado.io
   port: 51820
-  private-key: +OfdkT8qjORLwOp4ej7o0ZKAQjZ0UkCTDVCyd0zk+0E=
+  private-key: UPfxhq0oMb49lzOPCQDUS5vwxUstAQc7B2AaDXyJqk0=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: cdg-105.vpn.privado.io
@@ -254,10 +254,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.88.92
+  ip: 100.64.89.15
   name: dca-113.vpn.privado.io
   port: 51820
-  private-key: MH4lHS/nBXONbYPGzhQCiReAazjLUdGthS1uJjIPWVA=
+  private-key: yFx4aL6qprmptYrtcD/oduCAT3UOTZVAti/dNdZ3i1M=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: dca-113.vpn.privado.io
@@ -266,10 +266,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.83.82
+  ip: 100.64.83.176
   name: dca-114.vpn.privado.io
   port: 51820
-  private-key: yD2j6FH85mXAgf74tvF3G1Rxx0P46Gi9ie96LxRLmlE=
+  private-key: 2Cvulw6/xcfyqxmWNImIOd6zNJcYfyg/sUOqk7KPN1w=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: dca-114.vpn.privado.io
@@ -278,10 +278,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.128.127
+  ip: 100.64.129.12
   name: eze-103.vpn.privado.io
   port: 51820
-  private-key: 8MMBtMFs9v++QO+ULXoYLKhDmsK7L8gxQo+w1VTpn1I=
+  private-key: sAFirqZRYaovAIgMU3INEriJdjiIRoJ+h2JgCCgoelc=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: eze-103.vpn.privado.io
@@ -290,10 +290,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.137.209
+  ip: 100.64.138.35
   name: fra-104.vpn.privado.io
   port: 51820
-  private-key: AP1EhSZu5dRZxQMiU32BiAkiyVp1C2TX5uGUSrJ4d1E=
+  private-key: YCVlaK/c5z5Cfel1gncSP6OI4GUPAE4mSALF9n44tUo=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: fra-104.vpn.privado.io
@@ -302,10 +302,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.141.134
+  ip: 100.64.141.240
   name: fra-113.vpn.privado.io
   port: 51820
-  private-key: UNxK0iCykxkRWAv3xUFeRAMAjo1KefqabTHVyorjJnw=
+  private-key: 2P7hQm3x25khyhubZ3mCJvmF15djWQMladGUeKiMk1g=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: fra-113.vpn.privado.io
@@ -314,10 +314,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.133.47
+  ip: 100.64.133.102
   name: fra-114.vpn.privado.io
   port: 51820
-  private-key: IN+rSkpfK66Uo524HqDkSbDkEmJ7lehHWn56E8hRuU8=
+  private-key: 8DqI8y4FcOR5Iiw1v2jXLGmUriDsvAXtRQpOkI2XK1c=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: fra-114.vpn.privado.io
@@ -326,10 +326,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.65.0.138
+  ip: 100.65.1.69
   name: fra-116.vpn.privado.io
   port: 51820
-  private-key: aC92cxA95mscCmuHcUmobsoT52dOg75a8L2cJ7R4LU4=
+  private-key: wG/250dov8SiM9vEMH/THJ4g5GZ538ZA0zAkf5zJ4Hg=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: fra-116.vpn.privado.io
@@ -338,10 +338,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.129.121
+  ip: 100.64.129.244
   name: fra-118.vpn.privado.io
   port: 51820
-  private-key: WMSRoNQn4NNgHO2tFu4cKRFkyqpAzKySqMtUI9y5zWQ=
+  private-key: 6PQHl7X8YN6PmKBsgX1xBETT/v6oELo+/D1w5pjH60A=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: fra-118.vpn.privado.io
@@ -350,10 +350,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.123.143
+  ip: 100.64.123.229
   name: fra-119.vpn.privado.io
   port: 51820
-  private-key: +AIheU2qmKVpmOtTu8oBkLHIL8r/HH/90a5Sy2YAmV0=
+  private-key: WFF5Hf/D0LDlCJqEQf2AFl3L1TltOqj5LP7vsXhovHw=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: fra-119.vpn.privado.io
@@ -362,10 +362,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.143.118
+  ip: 100.64.144.3
   name: gru-104.vpn.privado.io
   port: 51820
-  private-key: YMitpm/4Nu1Q3tVr0vmX7nqnTjCYkcKGWl+xSnigsFY=
+  private-key: +NLGwmHEVpVGIg79RSzq3Lfk0mDO9x9FvzPs1Ftd0kE=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: gru-104.vpn.privado.io
@@ -374,10 +374,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.96.88
+  ip: 100.64.96.211
   name: jfk-116.vpn.privado.io
   port: 51820
-  private-key: UMbGscrl5YjOHlCxPC5GWPGipVUMQ6Ay8rzG0CaBOHg=
+  private-key: oHmy7WoRwS/V4BY6vPfYSx0HKFPkpbtmvGJBwZcK3WE=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: jfk-116.vpn.privado.io
@@ -386,10 +386,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.143.162
+  ip: 100.64.144.16
   name: jfk-117.vpn.privado.io
   port: 51820
-  private-key: YDHpPSFHuywKDM+1l19FLbBeknv/TOfzYwI61AcrlF0=
+  private-key: yLhfXy/eqXdhrOa9wMo7JqmIpiLkbS1R0wI28tH1ulA=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: jfk-117.vpn.privado.io
@@ -398,10 +398,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.223.0
+  ip: 100.64.224.17
   name: lax-111.vpn.privado.io
   port: 51820
-  private-key: mH7zRMBd+nbCWRk7IERK6f/cK3WqhnTtyQnIPOG4CnM=
+  private-key: eGdpnofwg0AYXkmo0JFZ/h/UkBwNxCHUqFU9HLvX824=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: lax-111.vpn.privado.io
@@ -410,10 +410,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.1.61
+  ip: 100.64.2.202
   name: lax-112.vpn.privado.io
   port: 51820
-  private-key: +ICDHxUbyIAq3vRB6jVyUmkNkM/CNgwzzYIHiBKiJHI=
+  private-key: aBip5y/Vfh1ecok2UtmJIThDhHepuTfpJDYJjPDhynw=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: lax-112.vpn.privado.io
@@ -422,10 +422,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.68.155
+  ip: 100.64.68.206
   name: lhr-110.vpn.privado.io
   port: 51820
-  private-key: AImemRQ34eKUoRl9iHg2T9mpTZh/IwFo5Z/mQMZHi2k=
+  private-key: MK/KgT6oFFmqDkjz5vbun2KAXQkgh8DCbG5IsTvpyVU=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: lhr-110.vpn.privado.io
@@ -434,10 +434,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.136.250
+  ip: 100.64.137.165
   name: lhr-111.vpn.privado.io
   port: 51820
-  private-key: OPo2/uvSbxGhYOA1SEwJ4JQW3yu9RJ8w8XXty79aumo=
+  private-key: gH1LEKtilbq8DRohRiALV3e1l41qhCq5GGzv+wV8oWA=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: lhr-111.vpn.privado.io
@@ -446,10 +446,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.103.57
+  ip: 100.64.103.162
   name: lhr-112.vpn.privado.io
   port: 51820
-  private-key: UKIHfw2i7+EuyBzHTubpio1/0AoeteQJ8X5KtqIWY2E=
+  private-key: gKtcKKa7jWD9cMJEQO5biW0lGCgmRDgbq08pKp+A0ms=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: lhr-112.vpn.privado.io
@@ -458,10 +458,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.45.219
+  ip: 100.64.45.235
   name: lhr-113.vpn.privado.io
   port: 51820
-  private-key: EJ90s58l9W0Zc7yG7rZ6/lO54FhRbRTyaRx59dVmK0A=
+  private-key: gHAIjYBoic2BV6xEJspeQaTcXHsX+lI8D+Fas5yV2n0=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: lhr-113.vpn.privado.io
@@ -470,10 +470,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.0.228
+  ip: 100.64.1.220
   name: mex-105.vpn.privado.io
   port: 51820
-  private-key: mFQYhjOW++SGEMz/9E3403MqBZg1dLzi+JiDUumvDn4=
+  private-key: GFZeLgoGmdyELYVsrLBP99ntlCjXa6IKq+XIhokGKkg=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: mex-105.vpn.privado.io
@@ -482,10 +482,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.65.3.192
+  ip: 100.65.5.167
   name: mex-106.vpn.privado.io
   port: 51820
-  private-key: kJXK8M26Q7quXRZsIl7TKQtGOeIMc5nEjBdIjn3piEE=
+  private-key: SBYM5Ka5STJm9cCat1wV5TF2GwcoXFY/sXKfbVV3WnE=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: mex-106.vpn.privado.io
@@ -494,10 +494,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.96.35
+  ip: 100.64.96.87
   name: mia-107.vpn.privado.io
   port: 51820
-  private-key: CKqEmowiKD31U+DbET+QUyp28raievbSnDWkJ36/9UM=
+  private-key: WCuqX26fN9RDOqB7ao1uGiNkRBV7dytTQPEDF6kIOmA=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: mia-107.vpn.privado.io
@@ -506,10 +506,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.73.62
+  ip: 100.64.73.235
   name: mia-108.vpn.privado.io
   port: 51820
-  private-key: wNpvos8uZwOnyEKBvnvH53yGV2ECy1tMSeHoP3Yp2kM=
+  private-key: SDLq2DNQfPDbZZGgbVe03fi5tr/CBhSKJXZv/MHTgWw=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: mia-108.vpn.privado.io
@@ -518,10 +518,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.63.115
+  ip: 100.64.63.245
   name: yul-105.vpn.privado.io
   port: 51820
-  private-key: UFi1c3dfLsC7ovDa7kbze/NaGXI/VoIVdsMoWDwgZ1c=
+  private-key: 6F2sMQg6Qvq3C598cxeIgRHHdFCu8ihZ6wrBNxopvnc=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: yul-105.vpn.privado.io
@@ -530,10 +530,10 @@ proxies:
 - dns:
   - 1.1.1.1
   - 8.8.8.8
-  ip: 100.64.125.12
+  ip: 100.64.125.137
   name: yul-106.vpn.privado.io
   port: 51820
-  private-key: 0O47qbpODdT8cg3qQs/gRkDcYL9iDBNwqjvMsFCQB28=
+  private-key: sCOrh6tjN2fXQRKULi3cHasxD2eL3xJMEEV3Sz8Jtmw=
   public-key: KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
   remote-dns-resolve: true
   server: yul-106.vpn.privado.io
